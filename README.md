@@ -1,4 +1,38 @@
 
+# obsidian软件下载
+
+# obsidian电脑端插件下载
+obsidian电脑端同步下来teracloud 上的 9logseq
+https://seto.teracloud.jp/dav/
+qswfm10001
+NbBGZTizF55kjD72
+
+
+# obsidian手机端插件下载
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 库名 obsidian-setting-pluggin
 
 
