@@ -9,7 +9,7 @@ NbBGZTizF55kjD72
 
 ## remotelysave插件
 ## spreadsheets插件也就是excel
-## excallidraw插件
+## excallidraw插件手绘
 ## consistent attachments and links插件
 
 
