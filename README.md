@@ -11,7 +11,7 @@ NbBGZTizF55kjD72
 ## spreadsheets插件也就是excel
 ## excalidraw插件手绘
 ## consistent attachments and links插件
-
+## diagram拓扑图插件
 
 
 # obsidian手机端插件下载
